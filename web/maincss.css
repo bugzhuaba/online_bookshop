@@ -1,0 +1,27 @@
+a:active {  text-decoration: none; color: #333333}
+a:hover {  text-decoration: underline; color: #FF3300}
+a:visited {  text-decoration: none; color: #0000FF}
+a:link {
+	color: #FF9900;
+	text-decoration: none;
+}
+.menufontcolor1 {
+	color: #333333;
+}
+.menufontcolor2 {
+	color: #333333;
+}
+.forminput {
+	height: 18px;
+	border: 1px dotted;
+}
+.formtext {
+	border: 1px dotted;
+}
+.td {
+	border: 1px dotted;
+	font-family: "ËÎÌו";
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
