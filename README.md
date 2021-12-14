@@ -66,7 +66,7 @@ We try to write the online bookshop system by using HTML, CSS, JavaScript front-
 
 - jar package:  mysql-connector-java-8.0.25.jar
 
-  ​					: commons-fileupload.jar
+  ​					    commons-fileupload.jar
 
 ## Project Development Platform
 
